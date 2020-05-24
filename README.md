@@ -1,15 +1,15 @@
 # Navigus-Assignment-2
-Developed a Slot Booking Calendar using PHP and MySQL
+Developed a Slot Booking Calendar
 Language Used for Front-End:
-PHP (version 7)
-HTML
-CSS
+PHP (version 7),
+HTML,
+CSS.
 
 Language Used for Back-End:
-MySQL
+MySQL.
 
 Server for Localhost
-XAMPP (v3.2.4)
+XAMPP (v3.2.4).
 
 
 Project Architectectire:
